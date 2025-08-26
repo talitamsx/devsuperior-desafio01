@@ -1,2 +1,1 @@
-DESAFIO: Componentes e injeção de dependência
-Desafio proposto do curso Formação Desenvolvedor Moderno, DevSuperior.
+Componentes e injeção de dependência, desafio proposto do curso Formação Desenvolvedor Moderno, DevSuperior.
